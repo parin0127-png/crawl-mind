@@ -10,6 +10,18 @@
 </p>
 
 ---
+## 📸 Showcase
+
+### 1. Agentic Workflow
+![Terminal Execution](terminal.png)
+
+### 2. Interactive Dashboard
+![Visual Dashboard](dashboard.png)
+
+### 3. Deep-Dive SEO Analysis
+![AI Report Details](report.png)
+
+---
 
 ## 🚀 What is CrawlMind?
 
