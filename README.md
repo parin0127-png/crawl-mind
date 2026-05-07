@@ -1,7 +1,9 @@
 # CrawlMind 🕷️
 
 > AI-powered SEO analysis agent that audits any website and generates a full report automatically.
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![Mistral AI](https://img.shields.io/badge/LLM-Mistral%20AI-orange.svg) ![RAG](https://img.shields.io/badge/Architecture-RAG-green.svg)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) &nbsp; ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) &nbsp; ![Mistral AI](https://img.shields.io/badge/LLM-Mistral%20AI-orange.svg) &nbsp; ![RAG](https://img.shields.io/badge/Architecture-RAG-green.svg)
+
 ---
 
 ## 🚀 What is CrawlMind?
