@@ -2,7 +2,12 @@
 
 > AI-powered SEO analysis agent that audits any website and generates a full report automatically.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) &nbsp; ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) &nbsp; ![Mistral AI](https://img.shields.io/badge/LLM-Mistral%20AI-orange.svg) &nbsp; ![RAG](https://img.shields.io/badge/Architecture-RAG-green.svg)
+<p align="left">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
+  <img src="https://img.shields.io/badge/LLM-Mistral%20AI-orange.svg" />
+  <img src="https://img.shields.io/badge/Architecture-RAG-green.svg" />
+</p>
 
 ---
 
